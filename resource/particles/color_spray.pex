@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<particleEmitterConfig>
+  <texture name="particle.png"/>
+  <sourcePosition x="512" y="360"/>
+  <sourcePositionVariance x="30.0" y="30.0"/>
+  <speed value="98.0"/>
+  <speedVariance value="211.0"/>
+  <particleLifeSpan value="4.0"/>
+  <particleLifespanVariance value="4.0"/>
+  <angle value="359.0"/>
+  <angleVariance value="190.0"/>
+  <gravity x="0.7" y="1.43"/>
+  <radialAcceleration value="0.0"/>
+  <tangentialAcceleration value="0.0"/>
+  <radialAccelVariance value="0.0"/>
+  <tangentialAccelVariance value="0.0"/>
+  <startColor red="0.32" green="0.39" blue="0.58" alpha="0.76"/>
+  <startColorVariance red="0.42" green="0.75" blue="0.88" alpha="0.08"/>
+  <finishColor red="0.79" green="0.85" blue="0.42" alpha="0.57"/>
+  <finishColorVariance red="0.45" green="0.51" blue="0.26" alpha="0.46"/>
+  <maxParticles value="500"/>
+  <startParticleSize value="50.0"/>
+  <startParticleSizeVariance value="50.0"/>
+  <finishParticleSize value="30.0"/>
+  <FinishParticleSizeVariance value="10.0"/>
+  <duration value="-1.00"/>
+  <emitterType value="0"/>
+  <maxRadius value="100.0"/>
+  <maxRadiusVariance value="0.0"/>
+  <minRadius value="0.0"/>
+  <rotatePerSecond value="0.0"/>
+  <rotatePerSecondVariance value="0.0"/>
+  <blendFuncSource value="770"/>
+  <blendFuncDestination value="1"/>
+  <rotationStart value="0.0"/>
+  <rotationStartVariance value="0.0"/>
+  <rotationEnd value="0.0"/>
+  <rotationEndVariance value="0.0"/>
+</particleEmitterConfig>

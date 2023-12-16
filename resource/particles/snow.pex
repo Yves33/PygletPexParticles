@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<particleEmitterConfig>
+  <texture name="vfx_star_4.png"/>
+  <sourcePosition x="493" y="761"/>
+  <sourcePositionVariance x="444.69000244140625" y="39.823001861572266"/>
+  <speed value="19.739999771118164"/>
+  <speedVariance value="0.0"/>
+  <particleLifeSpan value="9.645999908447266"/>
+  <particleLifespanVariance value="1.118399977684021"/>
+  <angle value="0.0"/>
+  <angleVariance value="12.330000069905942"/>
+  <gravity x="0.0" y="-26.548999786376953"/>
+  <radialAcceleration value="0.0"/>
+  <tangentialAcceleration value="0.0"/>
+  <radialAccelVariance value="0.0"/>
+  <tangentialAccelVariance value="0.0"/>
+  <startColor red="0.807381808757782" green="0.8782160878181458" blue="0.9411764740943909" alpha="1.0"/>
+  <startColorVariance red="0.014705875888466835" green="0.23962146043777466" blue="0.3333333134651184" alpha="0.0"/>
+  <finishColor red="0.28352075815200806" green="0.3075951933860779" blue="0.3382353186607361" alpha="0.0"/>
+  <finishColorVariance red="0.0" green="0.0" blue="0.0" alpha="0.0"/>
+  <maxParticles value="866"/>
+  <startParticleSize value="10.220999717712402"/>
+  <startParticleSizeVariance value="1.5490000247955322"/>
+  <finishParticleSize value="0.0"/>
+  <FinishParticleSizeVariance value="0.0"/>
+  <emitterType value="0"/>
+  <maxRadius value="100.0"/>
+  <maxRadiusVariance value="0.0"/>
+  <minRadius value="0.0"/>
+  <rotatePerSecond value="0.0"/>
+  <rotatePerSecondVariance value="0.0"/>
+  <blendFuncSource value="770"/>
+  <blendFuncDestination value="1"/>
+  <rotationStart value="0.0"/>
+  <rotationStartVariance value="58.957359632471324"/>
+  <rotationEnd value="0.0"/>
+  <rotationEndVariance value="0.0"/>
+  <duration value="-1.0"/>
+</particleEmitterConfig>

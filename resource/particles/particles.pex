@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<particleEmitterConfig>
+<texture name="particle.png"></texture>
+<sourcePosition x="160.00" y="220.24"></sourcePosition>
+<sourcePositionVariance x="384.00" y="384.00"></sourcePositionVariance>
+<speed value="1.00"></speed><speedVariance value="1.00"></speedVariance>
+<particleLifeSpan value="7.0000"></particleLifeSpan>
+<particleLifespanVariance value="3.0000"></particleLifespanVariance>
+<angle value="153.00"></angle>
+<angleVariance value="227.00"></angleVariance>
+<gravity x="1.64" y="0.79"></gravity>
+<radialAcceleration value="-2.47"></radialAcceleration>
+<tangentialAcceleration value="0.00"></tangentialAcceleration>
+<radialAccelVariance value="1000.00"></radialAccelVariance>
+<tangentialAccelVariance value="0.00"></tangentialAccelVariance>
+<startColor red="1.00" green="1.00" blue="1.00" alpha="0.43"></startColor>
+<startColorVariance red="1.00" green="1.00" blue="1.00" alpha="1.00"></startColorVariance>
+<finishColor red="0.00" green="1.00" blue="1.00" alpha="1.00"></finishColor>
+<finishColorVariance red="1.00" green="1.00" blue="1.00" alpha="1.00"></finishColorVariance>
+<maxParticles value="374"></maxParticles>
+<startParticleSize value="2.95"></startParticleSize>
+<startParticleSizeVariance value="0.00"></startParticleSizeVariance>
+<finishParticleSize value="2.19"></finishParticleSize>
+<FinishParticleSizeVariance value="0.00"></FinishParticleSizeVariance>
+<duration value="-1.00"></duration>
+<emitterType value="0"></emitterType>
+<maxRadius value="318.95"></maxRadius>
+<maxRadiusVariance value="0.00"></maxRadiusVariance>
+<minRadius value="0.00"></minRadius>
+<rotatePerSecond value="0.00"></rotatePerSecond>
+<rotatePerSecondVariance value="0.00"></rotatePerSecondVariance>
+<blendFuncSource value="1"></blendFuncSource>
+<blendFuncDestination value="771"></blendFuncDestination>
+<rotationStart value="0.00"></rotationStart>
+<rotationStartVariance value="0.00"></rotationStartVariance>
+<rotationEnd value="0.00"></rotationEnd>
+<rotationEndVariance value="0.00"></rotationEndVariance>
+</particleEmitterConfig>
