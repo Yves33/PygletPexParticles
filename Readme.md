@@ -14,5 +14,5 @@ A pyglet library for displaying / editing particle systems
 see enclosed demos
 
 3 - Screenshots:
-![scrennshot_1](Screenshot_1.png)
-![scrennshot_2](Screenshot_2.png)
+![screenshot_1](screenshot_1.png)
+![screenshot_2](screenshot_2.png)
